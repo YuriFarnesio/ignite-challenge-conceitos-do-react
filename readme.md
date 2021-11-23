@@ -66,4 +66,4 @@ You can view the project template through the links below:
 This project is licensed under the MIT License.
 
 <hr />
-<p>by Yur Farnesio :wave: <a href="https://linktr.ee/YuriFarnesio">Get in touch!</a></p>
+<p>by Yuri Farnesio :wave: <a href="https://linktr.ee/YuriFarnesio">Get in touch!</a></p>
