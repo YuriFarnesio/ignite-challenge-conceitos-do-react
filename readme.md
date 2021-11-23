@@ -36,7 +36,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/YuriFarnesio/ignite-challenge-conceitos-do-react.git && cd ignite-challenge-conceitos-do-react
+$ git clone https://github.com/YuriFarnesio/to.do.git && cd to.do
 ```
 
 Follow the steps below
