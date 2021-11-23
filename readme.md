@@ -51,7 +51,7 @@ $ yarn dev
 
 ## 💻 Project
 
-Challenge from the first chapter of Ignite, where we created an to-do list application.
+Challenge from the first chapter of Ignite, where I created a to-do list app.
 
 This is a project developed during the first Bootcamp Ignite ** Chapter, presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
